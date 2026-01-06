@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Pot -->
+                        <path d="M20 40H44L42 56H22L20 40Z" fill="#FF7043" stroke="#BF360C" stroke-width="2" stroke-linejoin="round"/>
+                        <rect x="18" y="34" width="28" height="6" rx="2" fill="#FFAB91" stroke="#BF360C" stroke-width="2"/>
+                        <!-- Soil -->
+                        <path d="M22 34H42" stroke="#5D4037" stroke-width="4"/>
+                        <!-- Stem -->
+                        <path d="M32 34V22" stroke="#4CAF50" stroke-width="2" stroke-linecap="round"/>
+                        <!-- Right Leaf -->
+                        <path d="M32 24C32 24 42 22 46 16C50 10 40 10 32 22" fill="#66BB6A" stroke="#2E7D32" stroke-width="2" stroke-linejoin="round"/>
+                        <!-- Left Leaf -->
+                        <path d="M32 26C32 26 22 24 18 18C14 12 24 12 32 24" fill="#81C784" stroke="#2E7D32" stroke-width="2" stroke-linejoin="round"/>
+                        <!-- Sparkles/Growth -->
+                        <path d="M24 10L26 8L28 10L26 12L24 10Z" fill="#FFEB3B"/>
+                        <path d="M40 8L42 6L44 8L42 10L40 8Z" fill="#FFEB3B"/>
+                    </svg>

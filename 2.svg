@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Sun (Left Bottom) -->
+                        <circle cx="24" cy="40" r="14" fill="#FFB74D" stroke="#E65100" stroke-width="2"/>
+                        <!-- Sun Rays -->
+                        <path d="M24 20V24 M24 56V60 M4 40H8 M40 40H44" stroke="#FF9800" stroke-width="2" stroke-linecap="round"/>
+                        <path d="M10 26L13 29 M35 51L38 54 M10 54L13 51 M35 29L38 26" stroke="#FF9800" stroke-width="2" stroke-linecap="round"/>
+                        
+                        <!-- Moon (Top Right) - Overlapping -->
+                        <path d="M42 12C36 12 32 18 32 24C32 32 38 38 46 38C52 38 56 34 56 30C56 40 48 48 38 48C28 48 20 40 20 30" stroke="#311B92" stroke-width="0" fill="none"/>
+                        <path d="M40 10C32 10 28 18 28 26C28 36 36 42 44 42C38 42 34 38 34 32C34 22 42 18 48 18C46 14 44 10 40 10Z" fill="#5E35B1" stroke="#311B92" stroke-width="2" stroke-linejoin="round"/>
+                        <!-- Stars -->
+                        <path d="M52 10L53 8L54 10L56 11L54 12L53 14L52 12L50 11L52 10Z" fill="#B39DDB"/>
+                        <path d="M54 30L55 28L56 30L58 31L56 32L55 34L54 32L52 31L54 30Z" fill="#B39DDB"/>
+                    </svg>

@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Popper Cone -->
+                        <path d="M16 54L30 40L42 52L28 62L16 54Z" fill="#FF5252" stroke="#B71C1C" stroke-width="2" stroke-linejoin="round"/>
+                        <path d="M20 50L38 56" stroke="#B71C1C" stroke-width="2" stroke-opacity="0.5"/>
+                        <!-- Opening Rim -->
+                        <ellipse cx="36" cy="46" rx="9" ry="3" transform="rotate(-45 36 46)" fill="#FF8A80" stroke="#B71C1C" stroke-width="2"/>
+                        <!-- Confetti Streams -->
+                        <path d="M42 40Q48 30 54 20" stroke="#2196F3" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 2"/>
+                        <path d="M38 36Q40 20 32 10" stroke="#FFEB3B" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 2"/>
+                        <path d="M44 42Q56 42 60 30" stroke="#4CAF50" stroke-width="2" stroke-linecap="round" stroke-dasharray="4 2"/>
+                        <!-- Confetti Bits -->
+                        <rect x="50" y="10" width="4" height="4" transform="rotate(20)" fill="#9C27B0"/>
+                        <circle cx="28" cy="18" r="2" fill="#FF9800"/>
+                        <path d="M46 8L48 12H44L46 8Z" fill="#00BCD4"/>
+                    </svg>

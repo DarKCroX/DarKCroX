@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <!-- Bottle Neck -->
+                        <rect x="26" y="14" width="12" height="12" fill="#E0E0E0" stroke="#546E7A" stroke-width="2"/>
+                        <!-- Bottle Body (Round Flask) -->
+                        <circle cx="32" cy="40" r="18" fill="#F8BBD0" stroke="#546E7A" stroke-width="2"/>
+                        <!-- Liquid Inside -->
+                        <path d="M18 46C18 46 22 42 32 42C42 42 46 46 46 46C48 48 49 54 32 54C15 54 16 48 18 46Z" fill="#E91E63" fill-opacity="0.6"/>
+                        <path d="M14.5 38C15 30 20 28 32 28C44 28 49 30 49.5 38" stroke="#546E7A" stroke-width="2" stroke-linecap="round"/>
+                        <!-- Cork/Stopper -->
+                        <path d="M24 10H40L38 14H26L24 10Z" fill="#8D6E63" stroke="#5D4037" stroke-width="2" stroke-linejoin="round"/>
+                        <!-- Heart Label -->
+                        <path d="M32 48C32 48 38 44 38 38C38 35 36 34 34 34C32.5 34 32 35 32 35C32 35 31.5 34 30 34C28 34 26 35 26 38C26 44 32 48 32 48Z" fill="#C2185B"/>
+                        <!-- Bubbles -->
+                        <circle cx="28" cy="34" r="2" fill="white" fill-opacity="0.6"/>
+                        <circle cx="44" cy="24" r="3" fill="#F48FB1"/>
+                    </svg>
